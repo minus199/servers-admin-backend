@@ -1,0 +1,4 @@
+This is an example(it is not in use anywhere in the project -- only in populate-db.js)
+You can use it to provide fake data when there is no server
+
+you can also copy-paste it to the react project(to develop without an api server)
